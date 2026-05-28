@@ -5,4 +5,10 @@
     <img src="https://github.com/user-attachments/assets/95b97e2a-98d1-4319-9130-4df63200846d" width="100%" alt="Banner"/>
   </a>
 </p>
-                                                                                                                                                                                                                [LOSER](https://github.com/m3w-bel)                                   <img width="196" height="236" alt="pony-town-KACHOW H00MIE @M3W !-boop-sit-blinking-padded-toy424-4x" src="https://github.com/user-attachments/assets/524a31ae-1573-48fc-a6f6-c4aaa0087d15" />
+                                                                                                                                                                                                                <p align="center">
+  <a href="https://github.com/m3w-bel">
+    <img src="https://github.com/user-attachments/assets/95b97e2a-98d1-4319-9130-4df63200846d" width="100%" alt="Banner" style="mix-blend-mode: lighten; display: block; margin: 0 auto;"/>
+  </a>
+  <br>
+  <h1><a href="https://github.com/m3w-bel">LOSER</a></h1>
+</p>
