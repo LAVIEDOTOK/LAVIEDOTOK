@@ -5,6 +5,7 @@
     <img src="https://github.com/user-attachments/assets/95b97e2a-98d1-4319-9130-4df63200846d" width="100%" alt="Banner"/>
   </a>
 </p>
+
 <span style="font-size: 10em; font-weight: bold; color: yellow;">LOSER</span>
   </a>
 </p>                                                                                                                                           <p align="center">
