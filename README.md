@@ -10,8 +10,4 @@
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/79aadd0a-add2-4ba8-bdfe-4b3567a6af17" width="300" height="360" alt="Pony" style="mix-blend-mode: lighten; transform: scaleX(-1);"/>
-  <br>
-  <a href="https://github.com/m3w-bel" style="text-decoration: none;">
-    <span style="font-size: 10em; font-weight: bold; color: yellow;">LOSER</span>
-  </a>
-</p>
+
