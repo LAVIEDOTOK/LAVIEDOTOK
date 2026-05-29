@@ -4,10 +4,6 @@
   </a>
   
 <p align="center">
-  <img src="https://api.mojoauth.com/users/status/badge?username=LAVIEDOTOK" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lzn6mjwh80weo3mxup038ta0e&cover_image=true&theme=spotify-embed&show_offline=false&background_color=cfff9e&interchange=false&profanity=false&hide_remaster=false&bar_color=ffce7a&bar_color_cover=false&mode=dark" alt="spotify-github-profile" />
   </a>
