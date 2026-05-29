@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://laaaavie.atabook.org/">
-    <img src="<img width="239" height="68" alt="image-Photoroom" src="https://github.com/user-attachments/assets/6c83e9b9-cfe2-4039-a795-22e09c67cbc3" />
+    <<img width="239" height="68" alt="image-Photoroom" src="https://github.com/user-attachments/assets/1ad33805-cae0-459f-9126-2a6c4a739258" />
+ />
 ">
   </a>
 </p>
