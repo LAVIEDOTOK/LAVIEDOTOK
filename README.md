@@ -5,15 +5,12 @@
 
 </div>
 <div align="center">
+  <img align="right" src="<img width="441" height="399" alt="image" src="https://github.com/user-attachments/assets/be883d28-1550-4f56-95bb-9fa254834291" />
+" width="320" />
 
-<img align="right" src="<img width="453" height="399" alt="image" src="https://github.com/user-attachments/assets/9a2d3c2a-4b83-4494-b872-726454d074af" />
-" width="320">
+  <br><br><br><br><br><br><br><br>
 
-<br><br><br><br><br><br><br><br>
-
-︵2.8 &nbsp;&nbsp;&nbsp; ,. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14♡!!
-
-<br clear="right">
+  ︵2.8 &nbsp;&nbsp;&nbsp; ,. &nbsp;&nbsp;&nbsp;&nbsp; 14♡!!
 
 </div>
 <img width="440" height="396" alt="image" src="https://github.com/user-attachments/assets/70864e9f-4ea1-4aae-959e-7b8dbc442494" />
