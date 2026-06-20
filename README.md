@@ -1,7 +1,7 @@
 <img width="1000" height="400" alt="56c398b9-ec4f-469a-ae8d-481c09022a47" src="https://github.com/user-attachments/assets/86a76cde-f34d-4f3d-8510-c8250ebe0f90" />"
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=LAVIEDOTOK&label=CUTIEPIES&color=fb8500&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=LAVIEDOTOK&label=CUTIEPIES&color=f4b183&style=for-the-badge)
 
 </div>
 <img width="434" height="397" alt="image" src="https://github.com/user-attachments/assets/82b10643-eb64-4da4-923f-6887c206efbc" />
