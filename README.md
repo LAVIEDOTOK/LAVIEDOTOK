@@ -6,22 +6,14 @@
 </div>
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="45%">
+<img align="right" src="<img width="453" height="399" alt="image" src="https://github.com/user-attachments/assets/9a2d3c2a-4b83-4494-b872-726454d074af" />
+" width="320">
 
-<sub>︵2.8 &nbsp;&nbsp;&nbsp; ,. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14♡!!</sub>
+<br><br><br><br><br><br><br><br>
 
-</td>
+︵2.8 &nbsp;&nbsp;&nbsp; ,. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14♡!!
 
-<td align="center" width="55%">
-
-<img src="<img width="446" height="395" alt="image" src="https://github.com/user-attachments/assets/efddb28f-049d-4a92-9521-70ecc5a1029e" />
-" width="260">
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 </div>
 <img width="440" height="396" alt="image" src="https://github.com/user-attachments/assets/70864e9f-4ea1-4aae-959e-7b8dbc442494" />
