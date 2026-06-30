@@ -2,7 +2,6 @@
   <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://github.com/user-attachments/assets/2c9f070a-b096-4090-baf0-d3136467ea57" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/faf23efe-e59f-4225-8456-12117427ffd6" />
   <img alt="Your Image Description" src="https://github.com/user-attachments/assets/a5690bb0-5817-49d2-b2a9-79d4a2d4938b" />
-">
 </picture>
 
 <div align="center">
