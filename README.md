@@ -13,12 +13,13 @@
   </img src="<img width="1000" height="1000" alt="a7f9476f-eeee-42ea-9a79-b07708a561ca" src="https://github.com/user-attachments/assets/47823a19-3e99-473f-8359-333fea90143e" />
 </p>
 
+<p align="center">
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6149b322-e67a-4dd0-a713-e709fedf9953" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bad35eee-56bf-4d0d-9de4-fa5f49c578b0" />
-  <img alt="Your Image Description" src="https://github.com/user-attachments/assets/009e06ae-d111-4ecd-a7d1-f0f67d471520" />
-
+  <img alt="Your Image Description" src="https://github.com/user-attachments/assets/009e06ae-d111-4ecd-a7d1-f0f67d471520" width="600">
 </picture>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/063a1a56-93ba-4d06-8296-0d7ee1ba88a9" />
