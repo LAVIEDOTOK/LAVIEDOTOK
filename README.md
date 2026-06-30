@@ -5,7 +5,8 @@
 ![](https://komarev.com/ghpvc/?username=LAVIEDOTOK&label=CUTIEPIES&color=f4b183&style=for-the-badge)
 
 <p align="left">
-  </img src="<img width="1000" height="1000" alt="a7f9476f-eeee-42ea-9a79-b07708a561ca" src="https://github.com/user-attachments/assets/98979188-4979-406c-9b4d-1b3978e99cf3" />
+  </img src="<img width="1000" height="1000" alt="a7f9476f-eeee-42ea-9a79-b07708a561ca" src="https://github.com/user-attachments/assets/47823a19-3e99-473f-8359-333fea90143e" />
+
 </p>
 <img width="440" height="396" alt="image" src="https://github.com/user-attachments/assets/70864e9f-4ea1-4aae-959e-7b8dbc442494" />
 
