@@ -9,11 +9,11 @@
 </p>
 
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/f5573dfd-a889-475e-b818-43616710da13"width="950" alt="Logo" />
+  <img src="https://github.com/user-attachments/assets/f5573dfd-a889-475e-b818-43616710da13"width="900" alt="Logo" />
 </p>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/8c5f2e70-a821-4871-85c8-abf85a9cfeba"width="950" alt="Logo" />
+  <img src="https://github.com/user-attachments/assets/8c5f2e70-a821-4871-85c8-abf85a9cfeba"width="1000" alt="Logo" />
 </p>
   <p align="center">
   <a href="https://laviedotok.straw.page/">
