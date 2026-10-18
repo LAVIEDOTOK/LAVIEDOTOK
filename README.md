@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://https://docs.google.com/document/d/1y0erTzrj60k71Pvc68jGTtuKFSJX3qCO3FVgOwfs4IM/edit?usp=drivesdk" target="_blank">
+  <a href="https://docs.google.com/document/d/1y0erTzrj60k71Pvc68jGTtuKFSJX3qCO3FVgOwfs4IM/edit?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/CLICK%20TO%20READ%20!-F159D4?style=for-the-badge&labelColor=000000" alt="CLICK TO READ !" />
   </a>
 </p>
