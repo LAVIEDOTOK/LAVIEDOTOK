@@ -8,6 +8,12 @@
   <img src="https://img.shields.io/badge/愛しい人-1%2C824%2C014-f159d4?style=flat" alt="愛しい人 Badge" />
 </p>
 
+<p align="center">
+  <a href="https://https://docs.google.com/document/d/1y0erTzrj60k71Pvc68jGTtuKFSJX3qCO3FVgOwfs4IM/edit?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/CLICK%20TO%20READ%20!-F159D4?style=for-the-badge&labelColor=000000" alt="CLICK TO READ !" />
+  </a>
+</p>
+
 <p align="right">
   <img src="https://github.com/user-attachments/assets/f5573dfd-a889-475e-b818-43616710da13"width="900" alt="Logo" />
 </p>
