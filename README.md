@@ -11,14 +11,14 @@
 </p>
   <p align="center">
   <a href="https://laviedotok.straw.page/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=0&color=f159d4&center=true&vcenter=true&width=70&lines=straw&repeat=false" alt="straw" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=0&color=f159d4&center=true&vcenter=true&width=70&lines=straw&repeat=false" alt="straw" />
   </a>
   <a href="https://laaaavie.atabook.org/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=0&color=f159d4&center=true&vcenter=true&width=60&lines=ata&repeat=false" alt="ata" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=0&color=f159d4&center=true&vcenter=true&width=60&lines=ata&repeat=false" alt="ata" />
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=1000&color=F159D4&center=true&vcenter=true&width=200&lines=%E3%82%84%E3%81%A3%E3%81%9F%EF%BC%81" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&pause=1000&color=F159D4&center=true&vcenter=true&width=200&lines=%E3%82%84%E3%81%A3%E3%81%9F%EF%BC%81" alt="Typing SVG" />
 </p>
 
 <p align="right">
