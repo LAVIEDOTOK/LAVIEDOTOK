@@ -1,2 +1,3 @@
-hi i got lazy
-<img width="1024" height="507" alt="image" src="https://github.com/user-attachments/assets/fc9104be-90da-4dca-acf6-f41f57b83f2b" />
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/9149dba9-5aa9-46c9-8932-4afdac6bd874"alt="Turkish Profile" width="600" style="border-radius: 8px; border: 1px solid #30363d;" />
+</p>
