@@ -5,4 +5,18 @@
 </picture>
 <p align="center">
   <img src="https://hits.sh/github.com/LAVIEDOTOK.svg?style=flat&label=%E4%B9%99%E9%AA%A8&extraCount=3982584&color=5B42F3&labelColor=555555" alt="乙骨" />
+  
 </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/335b0af2-14e5-4748-8282-ea466776e9e7"width="700" alt="Logo" />
+  
+  </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8dfecc1f-f0d1-4e06-b946-138230b83b6e"width="700" alt="Logo" />
+
+  </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e3d95dec-9c8f-4712-9504-4377851c89b1"width="900" alt="Logo" />
+
+
+its still a wip okay...im sou lazy im sowy..
