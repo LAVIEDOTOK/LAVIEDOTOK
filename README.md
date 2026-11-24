@@ -9,14 +9,18 @@
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/335b0af2-14e5-4748-8282-ea466776e9e7"width="700" alt="Logo" />
-  
+
+  </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b81f9e74-466f-4e0c-9b33-fd2acd4db6d2"width="900" alt="Logo" />
+
   </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8dfecc1f-f0d1-4e06-b946-138230b83b6e"width="650" alt="Logo" />
 
   </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e3d95dec-9c8f-4712-9504-4377851c89b1"width="900" alt="Logo" />
+  <img src="https://github.com/user-attachments/assets/30c5852b-5f21-4bed-9497-df377feab161" />
 
 
 its still a wip okay...im sou lazy im sowy..
