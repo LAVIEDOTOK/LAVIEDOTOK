@@ -23,4 +23,4 @@
   <img src="https://github.com/user-attachments/assets/30c5852b-5f21-4bed-9497-df377feab161" />
 
 
-its still a wip okay...im sou lazy im sowy..
+its still a wip okay...im sou lazy im sowy.. light mode for best view okok <3
